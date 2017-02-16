@@ -1,2 +1,4 @@
 for new1
-for branch, for exmpale
+
+for branch, for conflikt
+
