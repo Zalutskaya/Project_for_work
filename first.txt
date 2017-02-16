@@ -1,2 +1,6 @@
 for new
+<<<<<<< Updated upstream
 for master
+=======
+for stash
+>>>>>>> Stashed changes
